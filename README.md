@@ -1,0 +1,2 @@
+# SZ-zyc
+student,beginner
